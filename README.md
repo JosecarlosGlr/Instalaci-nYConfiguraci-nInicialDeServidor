@@ -1,1 +1,1 @@
-# Instalaci-nYConfiguraci-nInicialDeServidor
+# Instalación y configuración inicial de servidor
